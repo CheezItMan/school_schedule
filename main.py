@@ -2,9 +2,9 @@
 
 #first instance
 quinn = Student(
-                "Quinn", 
-                "junior", 
-                [
+                "Quinn",  # Name
+                "junior", # Grade
+                [         # classes
                     "Pre-Calc", 
                     "English III", 
                     "World History", 
